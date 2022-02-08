@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <!--  fragment_login.xml / fragment_sign_up.xml strings  -->
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Log in</string>
+    <string name="sign_up_button">Sign up</string>
+    <string name="separator">or</string>
+    <string name="app_logo_description">App logo (green diagram)</string>
+    <string name="email_hint">Email (optional)</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <!--  LoginFragment / SignUpFragment strings  -->
+    <string name="successful_login_toast">Successfully logged in!</string>
+    <string name="empty_cells_toast">Please, fill the form properly!</string>
+    <string name="invalid_user_toast">Invalid user!</string>
+    <string name="successful_signup_toast">Successfully signed up!</string>
+    <string name="unmatched_passwords_toast">Passwords don\'t match each other!</string>
+    <!--  fragment_list.xml / fragment_add.xml / fragment_update.xml strings  -->
+    <string name="expense_name_hint">Expense name</string>
+    <string name="expense_amount_hint">Expense amount (GEL)</string>
+    <string name="expense_description_hint">Expense description</string>
+    <string name="add_expense_button">Add Expense</string>
+    <string name="update_expense_button">Update Expense</string>
+    <!--  menu directory strings  -->
+    <string name="delete_expenses_title">Delete</string>
+    <!--  AddFragment strings  -->
+    <string name="expense_added_toast">Expense was added!</string>
+    <!--  list_item.xml strings  -->
+    <string name="list_item_name">Name:</string>
+    <string name="list_item_amount">Amount:</string>
+    <string name="list_item_description">Description:</string>
+    <!--  UpdateFragment strings  -->
+    <string name="updated_expense_toast">Expense was updated!</string>
+    <string name="deleted_expense_toast">Expense was deleted!</string>
+    <!--  ListFragment strings  -->
+    <string name="clear_expenses">All expenses were deleted!</string>
+</resources>
